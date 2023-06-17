@@ -9,7 +9,7 @@ to train, do python main.py
 main.py line 97-99: path where dataloader is saved  
 train.py line 120, 123: path where best validation model is saved  
 
-best validation achieved currently  
+best validation achieved currently using fishnet150 
 batch_size=64, optimizer AdamW lr 1e-4, augmentation random grayscale and random horizontal flip  
 no pooling before first layer of fish tail (input res 32x32)  
 
